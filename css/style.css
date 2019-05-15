@@ -1,0 +1,25 @@
+div{
+	width: 80%;
+	margin: auto;
+	background-color: #ccc;
+
+}
+
+table{
+ width: 100%;				
+}
+
+tr{
+
+}
+th{
+	background-color: #1b1bad;;
+	padding: 10px;
+	color: white;	
+
+}
+
+td{
+	text-align: center;
+	padding: 4px;
+}
